@@ -49,21 +49,16 @@ With just a CSV upload, this app lets you:
 
 ## 📦 Installation
 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/Mall-Customer-Segmentation.git
-```
-```bash
-cd Mall-Customer-Segmentation
-```
+    ```bash
+    git clone https://github.com/Kaifi1199/Mall-Customer-Segmentation.git
+    cd Mall-Customer-Segmentation
 
 2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
+    ```bash
+    pip install -r requirements.txt
 
 3. Launch the app
-```bash
-streamlit run app.py
-```
+    ```bash
+    streamlit run app.py
 
 ---
